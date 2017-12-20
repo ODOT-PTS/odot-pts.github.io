@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # ODOT-PTS GitHub Pages
 
 ## GTFS-ride Video Tutorials
