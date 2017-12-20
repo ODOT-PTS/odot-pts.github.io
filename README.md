@@ -1,4 +1,4 @@
-## Welcome to ODOT-PTS GitHub Page
+## ODOT-PTS GitHub Page
 
 ### GTFS-ride Video Tutorials
 
