@@ -1,1 +1,2 @@
-# ODOT-PTS GitHub Pages provide support to users of ODOT-PTS GitHub hosted project.
+# ODOT-PTS GitHub Pages
+This repo provides support to users of ODOT-PTS GitHub hosted projects through materials displayed using GitHub Pages.
