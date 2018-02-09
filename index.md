@@ -11,14 +11,14 @@ This standard uses the _required_ elements of GTFS and adds files necessary for 
 ## Links
 
 #### Information
-*	[GitHub Repository](github.gtfs-ride.org)
-*	[Wiki](wiki.gtfs-ride.org)
+*	[GitHub Repository](http://github.gtfs-ride.org)
+*	[Wiki](http://wiki.gtfs-ride.org)
 
 #### Usage
-*	[Specification](spec.gtfs-ride.org)
-*	[Feed Validator](validation.gtfs-ride.org)
-*	[Changes Forum](changes.gtfs-ride.org)
+*	[Specification](http://spec.gtfs-ride.org)
+*	[Feed Validator](http://validation.gtfs-ride.org)
+*	[Changes Forum](http://changes.gtfs-ride.org)
 
 #### WebHub
-*	[WebHub](webhub.gtfs-ride.org)
+*	[WebHub](http://webhub.gtfs-ride.org)
 *	[WebHub Video Tutorials](videos.md)
