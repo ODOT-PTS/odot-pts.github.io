@@ -8,7 +8,7 @@ GTFS-ride is an open, fixed-route transit ridership data standard developed thro
 
 This standard uses the _required_ elements of GTFS and adds files necessary for ridership data standardization and reporting. GTFS-ride allows transit agencies to share their ridership data with other agencies and organizations interesting in collecting and analyzing ridership data.
 
-### Links
+## Links
 
 #### Information
 *	[GitHub Repository](github.gtfs-ride.org)
