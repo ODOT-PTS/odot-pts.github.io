@@ -9,13 +9,13 @@ This standard uses the _required_ elements of GTFS and adds files necessary for 
 
 #### Information
 *	[GitHub Repository](http://github.gtfs-ride.org)
-*	[Wiki](http://wiki.gtfs-ride.org)
+*	[Wiki](http://wiki.gtfs-ride.org) - Usage guide and resources
 
-#### Usage
-*	[Specification](http://spec.gtfs-ride.org)
-*	[Feed Validator](http://validation.gtfs-ride.org)
-*	[Changes Forum](http://changes.gtfs-ride.org)
+#### Engagement
+*	[Specification](http://spec.gtfs-ride.org) - Details elements of standard
+*	[Feed Validator](http://validation.gtfs-ride.org) - Validates complete GTFS-ride feeds
+*	[Changes Forum](http://changes.gtfs-ride.org) - Discussion of sought or proposed changes
 
-#### WebHub
+#### WebHub - Web-based Database and Analytic Tools
 *	[WebHub](http://webhub.gtfs-ride.org)
 *	[WebHub Video Tutorials](videos.md)
