@@ -11,11 +11,12 @@ This standard uses the _required_ elements of GTFS and adds files necessary for 
 *	[GitHub Repository](http://github.gtfs-ride.org)
 *	[Wiki](http://wiki.gtfs-ride.org) - Usage guide and resources
 
+#### Explore 
+*	[WebHub](http://webhub.gtfs-ride.org) - GTFS-ride web-based database and analytic tools
+*	[WebHub Tutorials](videos.md) - Videos to guide users through WebHub features and uses
+
 #### Engagement
 *	[Specification](http://spec.gtfs-ride.org) - Details elements of standard
 *	[Feed Validator](http://validation.gtfs-ride.org) - Validates complete GTFS-ride feeds
 *	[Changes Forum](http://changes.gtfs-ride.org) - Discussion of sought or proposed changes
 
-#### WebHub - Web-based Database and Analytic Tools
-*	[WebHub](http://webhub.gtfs-ride.org)
-*	[WebHub Video Tutorials](videos.md)
