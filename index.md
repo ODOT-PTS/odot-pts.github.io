@@ -8,7 +8,7 @@ This standard uses the _required_ elements of GTFS and adds files necessary for 
 ## Links
 
 #### Information
-*	[GitHub Repository](http://github.gtfs-ride.org)
+*	[GitHub Repository](http://github.gtfs-ride.org) - GTFS-ride specification and documentation
 *	[Wiki](http://wiki.gtfs-ride.org) - Usage guide and resources
 
 #### Explore 
