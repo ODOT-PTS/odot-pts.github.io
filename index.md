@@ -19,6 +19,6 @@ This standard uses the _required_ elements of GTFS and adds files necessary for 
 #### Engagement
 *	[Specification](http://spec.gtfs-ride.org) - Details elements of standard
 *	[Feed Validator](http://validation.gtfs-ride.org) - Validates complete GTFS-ride feeds
-*	[Discussion Forum](http://changes.gtfs-ride.org) - General discussion including sought or proposed changes
+*	[Discussion Forum](http://forum.gtfs-ride.org) - General discussion including sought or proposed changes
 
 #### [GTFS-ride Consortium Group](consortium/meetings.md)
