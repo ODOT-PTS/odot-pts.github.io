@@ -10,7 +10,7 @@ This standard uses the _required_ elements of GTFS and adds files necessary for 
 #### Information
 *	[GitHub Repository](http://github.gtfs-ride.org) - GTFS-ride specification and documentation
 *	[Wiki](http://wiki.gtfs-ride.org) - Usage guide and resources
-* [SPR 803 Final Report](https://www.oregon.gov/ODOT/Programs/ResearchDocuments/SPR_803_Final%20Strategic%20Public%20Transit%20Investment.docx.pdf) - Completed work from phase 1
+* [SPR 803 Final Report](https://www.oregon.gov/ODOT/Programs/ResearchDocuments/SPR_803_Final%20Strategic%20Public%20Transit%20Investment.pdf) - Completed work from phase 1
 
 #### Explore 
 *	[WebHub](http://webhub.gtfs-ride.org) - GTFS-ride web-based database and analytic tools
