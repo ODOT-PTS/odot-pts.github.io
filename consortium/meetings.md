@@ -19,7 +19,7 @@ To assist GTFS-ride Consortium Group [talking points](first_meeting/Consortium_G
 * [Meeting Recording](https://media.oregonstate.edu/media/t/0_ptntpw8x)
 
 ### Second Meeting - 10 October 2018
-* [Presentation and Discussion Summary] (second_meeting/MeetingMinutes.docx)
+* [Presentation and Discussion Summary](second_meeting/MeetingMinutes.docx)
 * [Chat Transcript](second_meeting/2nd consortium chat record.txt)
 * [Meeting Agenda](second_meeting/GTFS-ride_2nd_Consortium_MeetingAgenda.docx)
 * [OSU Presentation Slides](second_meeting/GTFS-ride_Meeting2_Presentation_v2_10102018.pptx)
