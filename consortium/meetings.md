@@ -23,7 +23,7 @@ To assist GTFS-ride Consortium Group [talking points](first_meeting/Consortium_G
 * [Chat Transcript](second_meeting/2nd_consortium_chat_record.txt)
 * [Meeting Agenda](second_meeting/GTFS-ride_2nd_Consortium_MeetingAgenda.docx)
 * [OSU Presentation Slides](second_meeting/GTFS-ride_Meeting2_Presentation_v2_10102018.pptx)
-* [moovel Prsentation Slides](second_meeting/StakeholderPresentations/The_Importance_of_Data_Standards_in_a_Multi-Modal_World.pdf)
+* [moovel Presentation Slides](second_meeting/StakeholderPresentations/The_Importance_of_Data_Standards_in_a_Multi-Modal_World.pdf)
 * [Trillium Presentation Slides](second_meeting/StakeholderPresentations/Lessons_from_GTFS_-_GTFS-ride_consortium_meeting_2.pptx)
 * [TIDES Presentation Slides](second_meeting/StakeholderPresentations/TIDES_Update_-_Levin_-_Oct2018.pptx)
 * [Meeting Recording](https://media.oregonstate.edu/media/t/1_s6nl0evv)
