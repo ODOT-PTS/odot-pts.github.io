@@ -30,4 +30,4 @@ To assist GTFS-ride Consortium Group [talking points](first_meeting/Consortium_G
 
 ### Thrid Meeting - 4 February 2019
 
-* [Presentation Slides](third_meeting/GTFS-ride_Meeting3_Presentation_v1_01292019.pptx)
+* [Presentation Slides](third_meeting/GTFS-ride_Meeting3_Presentation_Finalversion.pptx)
