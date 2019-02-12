@@ -27,3 +27,7 @@ To assist GTFS-ride Consortium Group [talking points](first_meeting/Consortium_G
 * [Trillium Presentation Slides](second_meeting/StakeholderPresentations/Lessons_from_GTFS_-_GTFS-ride_consortium_meeting_2.pptx)
 * [TIDES Presentation Slides](second_meeting/StakeholderPresentations/TIDES_Update_-_Levin_-_Oct2018.pptx)
 * [Meeting Recording](https://media.oregonstate.edu/media/t/1_s6nl0evv)
+
+### Thrid Meeting - 4 February 2019
+
+* [Presentation Slides](third_meeting/GTFS-ride_Meeting3_Presentation_v1_01292019.pptx)
