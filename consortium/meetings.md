@@ -31,3 +31,5 @@ To assist GTFS-ride Consortium Group [talking points](first_meeting/Consortium_G
 ### Thrid Meeting - 4 February 2019
 
 * [Presentation Slides](third_meeting/GTFS-ride_Meeting3_Presentation_Finalversion.pptx)
+* [Chat Transcript](third_meeting/3rd_Consortium_Chat_02042019.txt)
+* [Meeting Recording](https://media.oregonstate.edu/media/t/1_1c6h43hp) (*Presentation begins at 0:27*)
