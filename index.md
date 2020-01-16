@@ -13,7 +13,7 @@ This standard uses the _required_ elements of GTFS and adds files necessary for 
 * [SPR 803 Final Report](https://www.oregon.gov/ODOT/Programs/ResearchDocuments/SPR_803_Final%20Strategic%20Public%20Transit%20Investment.pdf) - Completed work from phase 1
 
 #### Explore 
-*	[WebHub](http://webhub.gtfs-ride.org) - GTFS-ride web-based database and analytic tools
+*	~~[WebHub](http://webhub.gtfs-ride.org) - GTFS-ride web-based database and analytic tools~~ _Down for maintenance_
 *	[WebHub Tutorials](videos.md) - Videos to guide users through WebHub features and uses
 
 #### Engagement
