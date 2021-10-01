@@ -17,23 +17,22 @@ GTFS-Ride provides transit agencies a standardized way to collect, store, share,
 
 ## GTFS-Ride Files
 
-This standard uses the [_required_ elements of GTFS](http://gtfs.org) and [adds files](http://spec.gtfs-ride.org) necessary for ridership data standardization and reporting. The files that GTFS-Ride adds are:
+This standard builds on top of [GTFS](http://gtfs.org) and adds files necessary for ridership data standardization and reporting. The files that GTFS-Ride adds are:
 
-| File Name | Description |
-| --------- | ----------- |
-| [`board_alight.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#board_alighttxt) | Tracks boardings/alightings along with associated information at stop-level. |
-| [`trip_capacity.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#trip_capacitytxt) | Provides the capability to identify the capacities of vehicles used to provide service. |
-| [`rider_trip.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#rider_triptxt) | Includes anonymized data about specific riders' trip. |
-| [`ridership.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#ridershiptxt) | Provides the capability to supply ridership counts at various levels of aggregation. |
-| [`ride_feed_info.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#ride_feed_infotxt) | Information specific to the source and attributes of the additional ridership files. |
+| File Name | Required | Description |
+| --------- | -------- | ----------- |
+| [`board_alight.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#board_alighttxt) | optional | Tracks boardings/alightings along with associated information at stop-level. |
+| [`trip_capacity.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#trip_capacitytxt) | optional | Provides the capability to identify the capacities of vehicles used to provide service. |
+| [`rider_trip.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#rider_triptxt) | optional | Includes anonymized data about specific riders' trip. |
+| [`ridership.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#ridershiptxt) | optional | Provides the capability to supply ridership counts at various levels of aggregation. |
+| [`ride_feed_info.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#ride_feed_infotxt) | required | Information specific to the source and attributes of the additional ridership files. |
 
-View the full [GTFS-Ride specification]((http://spec.gtfs-ride.org)) for more details.
+See the full [GTFS-Ride specification](http://spec.gtfs-ride.org) for more details.
 
 ## Information
 *	[GitHub Repository](http://github.gtfs-ride.org) - GTFS-ride specification and documentation
 *	[Wiki](http://wiki.gtfs-ride.org) - Usage guide and resources
 * [SPR 803 Final Report](https://www.oregon.gov/ODOT/Programs/ResearchDocuments/SPR_803_Final%20Strategic%20Public%20Transit%20Investment.pdf) - Completed work from phase 1
-* [WebHub Tutorials](/videos) - Videos to guide users through WebHub features and uses
 
 ## Tools
 *	[node-gtfs-ride](https://github.com/ODOT-PTS/node-gtfs-ride) - A command-line utility for processing transit ridership data. It will import a GTFS file and Automated Passenger Counter (APC) data and then export ridership data in GTFS-Ride format.
