@@ -25,6 +25,23 @@ GTFS-ride was developed to provide a comprehensive (yet flexible) public transit
 
 Read the [full GTFS-ride project report](https://www.oregon.gov/ODOT/Programs/ResearchDocuments/SPR_803_Final%20Strategic%20Public%20Transit%20Investment.pdf) (SPR 803).
 
+## Agencies Using GTFS-ride
+
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img src="/assets/images/cet-logo.png" width="153" height="50" style="display: block;" />
+    <a href="https://cascadeseasttransit.com/">Cascades East Transit</a><br />(Bend, OR)
+  </div>
+  <div>
+    <img src="/assets/images/cherriots-logo.png" width="125" height="50" style="display: block;" />
+    <a href="https://www.cherriots.org">Cherriots</a><br />(Salem, OR)
+  </div>
+  <div>
+    <img src="/assets/images/ltd-logo.png" width="131" height="50" style="display: block;" />
+    <a href="https://www.ltd.org/">Lane Transit District</a><br />(Eugene, OR)
+  </div>
+</div>
+
 ## GTFS-ride Files
 
 This standard builds on top of [GTFS](http://gtfs.org) and adds files necessary for ridership data standardization and reporting. The files that GTFS-ride adds are:
