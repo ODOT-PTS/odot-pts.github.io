@@ -54,7 +54,7 @@ This standard builds on top of [GTFS](http://gtfs.org) and adds files necessary 
 | [`ridership.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#ridershiptxt) | optional | Provides the capability to supply ridership counts at various levels of aggregation. |
 | [`ride_feed_info.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#ride_feed_infotxt) | required | Information specific to the source and attributes of the additional ridership files. |
 
-<img src="/assets/images/gtfs-ride-file-relationships.png" width="100%" style="max-width: 600px;" />
+<a href="/assets/images/gtfs-ride-file-relationships.png"><img src="/assets/images/gtfs-ride-file-relationships.png" width="100%" style="max-width: 600px;" /></a>
 
 ## Getting Started
 
