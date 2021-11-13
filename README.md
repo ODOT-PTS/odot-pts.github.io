@@ -1,5 +1,5 @@
 # ODOT-PTS GitHub Pages
-This is the codebase for the website [gtfs-ride.org](http://gtfs-ride.org) to provide core information and links to resources in support of GTFS-ride.
+This is the codebase for the website [gtfsride.org](http://gtfsride.org) to provide core information and links to resources in support of GTFS-ride.
 
 ## Setup
 

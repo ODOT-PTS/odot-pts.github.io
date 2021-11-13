@@ -58,12 +58,12 @@ This standard builds on top of [GTFS](http://gtfs.org) and adds files necessary 
 
 ## Getting Started
 
-1. Review the [GTFS-ride specification](http://spec.gtfs-ride.org) to see the full list of files and fields.
+1. Review the [GTFS-ride specification](http://spec.gtfsride.org) to see the full list of files and fields.
 2. Take a look at [GTFS-ride example files](https://github.com/ODOT-PTS/GTFS-ride/tree/master/spec/en/examples) to see what GTFS with GTFS-ride data looks like.
 3. Determine which [GTFS-ride files](/files) your are needed for agency's ridership data.
 4. Optionally, use the [node-gtfs-ride](https://github.com/ODOT-PTS/node-gtfs-ride) tool to convert Automated Passenger Counter (APC) data into GTFS-ride board-alight data.
 5. Create your GTFS-ride feed.
-6. Use the [GTFS-ride Feed Validator](http://validation.gtfs-ride.org) to test your feed.
+6. Use the [GTFS-ride Feed Validator](http://validation.gtfsride.org) to test your feed.
 7. Publish your validated GTFS-ride feed and use the [Ridership App](https://github.com/ODOT-PTS/ridership-app) to visualize your agency's ridership data.
 
 ## GTFS-ride Tools
@@ -72,13 +72,13 @@ Below is a list of tools for creating, validating and analyzing GTFS-ride data.
 
 *	[node-gtfs-ride](https://github.com/ODOT-PTS/node-gtfs-ride) - A command-line utility for processing transit ridership data. It will import a GTFS file and Automated Passenger Counter (APC) data and then export ridership data in GTFS-ride format.
 *	[Ridership App](https://github.com/ODOT-PTS/ridership-app) - A tool for visualizing, analyzing and exporting transit ridership data in GTFS-ride format.
-*	[Feed Validator](http://validation.gtfs-ride.org) - Validates complete GTFS-ride feeds.
+*	[Feed Validator](http://validation.gtfsride.org) - Validates complete GTFS-ride feeds.
 
 ## Questions, Comments and Feedback?
 
 Any questions, comments and feedback can be emailed to [david.porter@oregonstate.edu](mailto:david.porter@oregonstate.edu).
 
-To facilitate GTFS-ride's continued improvement and broad applicability, the involvement and feedback of the public transit community is highly encouraged. An open discussion forum for any proposed changes is available via the [GTFS-ride Google Group](http://forum.gtfs-ride.org). Any specific issues or desired changes to the GTFS-ride standard can be addressed through the [change process](https://github.com/ODOT-PTS/GTFS-ride/blob/master/CHANGES.md).
+To facilitate GTFS-ride's continued improvement and broad applicability, the involvement and feedback of the public transit community is highly encouraged. An open discussion forum for any proposed changes is available via the [GTFS-ride Google Group](http://forum.gtfsride.org). Any specific issues or desired changes to the GTFS-ride standard can be addressed through the [change process](https://github.com/ODOT-PTS/GTFS-ride/blob/master/CHANGES.md).
 
 ## GTFS-ride Consortium Group
 The GTFS-ride Consortium Group is a select national group of transit, research, and federal agency representatives focusing on the GTFS-ride Ridership Data Standard ecosystem development. [View GTFS-ride Consortium Group past meetings](consortium/meetings).
