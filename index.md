@@ -63,7 +63,7 @@ This standard builds on top of [GTFS](http://gtfs.org) and adds files necessary 
 3. Determine which [GTFS-ride files](/files) your are needed for agency's ridership data.
 4. Optionally, use the [node-gtfs-ride](https://github.com/ODOT-PTS/node-gtfs-ride) tool to convert Automated Passenger Counter (APC) data into GTFS-ride board-alight data.
 5. Create your GTFS-ride feed.
-6. Use the [GTFS-ride Feed Validator](http://validation.gtfsride.org) to test your feed.
+6. Use the [GTFS-ride Feed Validator](https://github.com/ODOT-PTS/gtfs-ride-validator) to test your feed.
 7. Publish your validated GTFS-ride feed and use the [Ridership App](https://github.com/ODOT-PTS/ridership-app) to visualize your agency's ridership data.
 
 ## GTFS-ride Tools
@@ -72,7 +72,7 @@ Below is a list of tools for creating, validating and analyzing GTFS-ride data.
 
 *	[node-gtfs-ride](https://github.com/ODOT-PTS/node-gtfs-ride) - A command-line utility for processing transit ridership data. It will import a GTFS file and Automated Passenger Counter (APC) data and then export ridership data in GTFS-ride format.
 *	[Ridership App](https://github.com/ODOT-PTS/ridership-app) - A tool for visualizing, analyzing and exporting transit ridership data in GTFS-ride format.
-*	[Feed Validator](http://validation.gtfsride.org) - Validates complete GTFS-ride feeds.
+*	[Feed Validator](https://github.com/ODOT-PTS/gtfs-ride-validator) - Validates complete GTFS-ride feeds.
 
 ## Questions, Comments and Feedback?
 
