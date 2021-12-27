@@ -13,10 +13,10 @@ const config = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'ODOT-PTS', // Usually your GitHub org/user name.
-  projectName: 'odot-pts.github.io', // Usually your repo name.
+  organizationName: 'ODOT-PTS',
+  projectName: 'odot-pts.github.io',
   deploymentBranch: 'gh_pages',
-  trailingSlash: true,
+  trailingSlash: false,
   presets: [
     [
       'classic',
@@ -102,7 +102,7 @@ const config = {
               },
               {
                 label: 'Quick Start',
-                to: '/docs/getting-started/',
+                to: '/docs/getting-started',
               },
               {
                 label: 'Specification',
