@@ -19,9 +19,14 @@ function HomepageHeader() {
             <p className={styles.hero__subtitle}>{siteConfig.tagline}</p>
             <div className={styles.buttons}>
               <Link
-                className="button button--secondary button--lg"
+                className="button button--secondary button--lg margin-right--sm margin-top--sm"
                 to="/docs/about">
-                More About GTFS-ride
+                About GTFS-ride
+              </Link>
+              <Link
+                className="button button--secondary button--lg margin-top--sm"
+                to="/specification">
+                GTFS-Ride Specification
               </Link>
             </div>
           </div>

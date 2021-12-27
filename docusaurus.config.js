@@ -121,10 +121,6 @@ const config = {
                 label: 'Google Group',
                 href: 'http://forum.gtfsride.org/',
               },
-              {
-                label: 'Change Process',
-                href: 'https://github.com/ODOT-PTS/GTFS-ride/blob/master/CHANGES.md',
-              },
             ],
           },
           {

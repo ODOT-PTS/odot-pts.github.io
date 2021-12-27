@@ -32,7 +32,7 @@ const FeatureList = [
     Img: <img src="/img/osi-approved.png" className={styles.featureImg} width="150" />,
     description: (
       <>
-        GTFS-ride is an open, flexible, non-propietary standard with a documented <a href="https://github.com/ODOT-PTS/GTFS-ride/blob/master/CHANGES.md">change process</a>.
+        GTFS-ride is an open, flexible, non-propietary standard with a documented <a href="/specification/change-process">change process</a>.
       </>
     ),
   },

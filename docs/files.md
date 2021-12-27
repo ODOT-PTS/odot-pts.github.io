@@ -8,11 +8,13 @@ This standard builds on top of [GTFS](http://gtfs.org) and adds files necessary 
 
 | File Name | Required | Description |
 | --------- | -------- | ----------- |
-| [`board_alight.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#board_alighttxt) | optional | Tracks boardings/alightings along with associated information at stop-level. |
-| [`trip_capacity.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#trip_capacitytxt) | optional | Provides the capability to identify the capacities of vehicles used to provide service. |
-| [`rider_trip.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#rider_triptxt) | optional | Includes anonymized data about specific riders' trip. |
-| [`ridership.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#ridershiptxt) | optional | Provides the capability to supply ridership counts at various levels of aggregation. |
-| [`ride_feed_info.txt`](https://github.com/ODOT-PTS/GTFS-ride/blob/master/spec/en/reference.md#ride_feed_infotxt) | required | Information specific to the source and attributes of the additional ridership files. |
+| [`board_alight.txt`](/specification#board_alighttxt) | optional | Tracks boardings/alightings along with associated information at stop-level. |
+| [`trip_capacity.txt`](/specification#trip_capacitytxt) | optional | Provides the capability to identify the capacities of vehicles used to provide service. |
+| [`rider_trip.txt`](/specification#rider_triptxt) | optional | Includes anonymized data about specific riders' trip. |
+| [`ridership.txt`](/specification#ridershiptxt) | optional | Provides the capability to supply ridership counts at various levels of aggregation. |
+| [`ride_feed_info.txt`](/specification#ride_feed_infotxt) | required | Information specific to the source and attributes of the additional ridership files. |
+
+Full detail on each file is available in the [GTFS-ride specification](/specification).
 
 ### GTFS-ride File Relationships
 [![GTFS-ride File Relationships](/img/gtfs-ride-file-relationships.png "GTFS-Ride File Relationships")](/img/gtfs-ride-file-relationships.png)

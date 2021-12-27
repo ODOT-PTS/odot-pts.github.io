@@ -23,7 +23,7 @@ const sidebars = {
     {
       type: 'doc',
       id: 'change-process',
-      label: 'Changes'
+      label: 'Change Process'
     },
   ],
 

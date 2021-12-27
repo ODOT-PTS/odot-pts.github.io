@@ -6,7 +6,7 @@ sidebar_position: 6
 
 Any questions, comments and feedback can be emailed to [david.porter@oregonstate.edu](mailto:david.porter@oregonstate.edu).
 
-To facilitate GTFS-ride's continued improvement and broad applicability, the involvement and feedback of the public transit community is highly encouraged. An open discussion forum for any proposed changes is available via the [GTFS-ride Google Group](http://forum.gtfsride.org). Any specific issues or desired changes to the GTFS-ride standard can be addressed through the [change process](https://github.com/ODOT-PTS/GTFS-ride/blob/master/CHANGES.md).
+To facilitate GTFS-ride's continued improvement and broad applicability, the involvement and feedback of the public transit community is highly encouraged. An open discussion forum for any proposed changes is available via the [GTFS-ride Google Group](http://forum.gtfsride.org). Any specific issues or desired changes to the GTFS-ride standard can be addressed through the [change process](/specification/change-process).
 
 ## GTFS-ride Consortium Group
 The GTFS-ride Consortium Group is a select national group of transit, research, and federal agency representatives focusing on the GTFS-ride Ridership Data Standard ecosystem development. [View GTFS-ride Consortium Group past meetings](consortium/meetings).
