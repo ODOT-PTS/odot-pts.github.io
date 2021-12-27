@@ -22,6 +22,11 @@ const sidebars = {
     },
     {
       type: 'doc',
+      id: 'examples',
+      label: 'Examples'
+    },
+    {
+      type: 'doc',
       id: 'change-process',
       label: 'Change Process'
     },

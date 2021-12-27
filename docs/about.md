@@ -16,7 +16,7 @@ GTFS-ride is an open standard for storing and sharing fixed-route transit riders
   <figcaption>GTFS-ride data visualized by time of day</figcaption>
 </figure>
 
-GTFS-ride provides transit agencies a standardized way to collect, store, share, report, and analyze their ridership data. It can be used by transit agencies to share their ridership data with other agencies and organizations interesting in collecting and analyzing ridership data. 
+GTFS-ride provides transit agencies a standardized way to collect, store, share, report, and analyze their ridership data. Transit agencies can use GTFS-ride to share their ridership data with other agencies and organizations interesting in collecting and analyzing ridership data. 
 
 ## Why GTFS-ride?
 
@@ -24,7 +24,7 @@ Transit ridership data is needed to set policy, develop plans, and prioritize in
 
 These inconsistencies in the availability, format, and quality of ridership data make it very difficult (if not impossible) entities with an interest in multi-agency transit networks to make effective and informed decisions. Regional governments, researchers, policymakers and transit agencies themselves don't have an easy way to collect, store, share, report, and analyze their ridership data. 
 
-GTFS-ride was developed to provide a comprehensive (yet flexible) public transit ridership data standard. It was designed to improve the processes of ridership data collection, management, reporting, and analysis. Web-based software tools have been developed to support the core functionality of GTFS-ride.
+GTFS-ride provides a comprehensive (yet flexible) public transit ridership data standard. It was designed to improve the processes of ridership data collection, management, reporting, and analysis. Web-based software tools have been developed to support the core functionality of GTFS-ride.
 
 ## GTFS-ride project report.
 
