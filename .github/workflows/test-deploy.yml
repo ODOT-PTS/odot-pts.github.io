@@ -14,6 +14,9 @@ jobs:
         with:
           node-version: 14.x
           cache: yarn
+      - name: Checkout GTFS-Ride Specs
+        run: |
+          sh ./scripts/checkout-specification.sh
       - name: Test build
         run: |
           yarn install --frozen-lockfile

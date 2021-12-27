@@ -45,7 +45,15 @@ const config = {
         routeBasePath: 'consortium',
         sidebarPath: require.resolve('./sidebarsConsortium.js'),
         editUrl: 'https://github.com/ODOT-PTS/odot-pts.github.io/blob/master',
-        // ... other options
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'specification',
+        path: 'specification',
+        routeBasePath: 'specification',
+        sidebarPath: require.resolve('./sidebarsSpecification.js'),
       },
     ],
   ],
@@ -68,6 +76,13 @@ const config = {
           },
           {
             type: 'doc',
+            docsPluginId: 'specification',
+            docId: 'index',
+            position: 'left',
+            label: 'Specification',
+          },
+          {
+            type: 'doc',
             docsPluginId: 'consortium',
             docId: 'about',
             position: 'left',
@@ -84,6 +99,14 @@ const config = {
               {
                 label: 'About',
                 to: '/docs/about',
+              },
+              {
+                label: 'Quick Start',
+                to: '/docs/getting-started/',
+              },
+              {
+                label: 'Specification',
+                to: '/specification',
               },
             ],
           },
