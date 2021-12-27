@@ -10,7 +10,7 @@ const config = {
   tagline: 'An open standard for storing and sharing fixed-route transit ridership data',
   url: 'https://gtfsride.org',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'ODOT-PTS', // Usually your GitHub org/user name.
