@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Agencies Using GTFS-ride
+# Agencies Participating on GTFS-ride Pilot
 
 | Agency | Location |
 | ------ | -------- |
