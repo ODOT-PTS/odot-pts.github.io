@@ -1,0 +1,17 @@
+.company-logo {
+  margin: 0 auto;
+  max-width: 250px;
+}
+
+.company-name {
+  font-weight: bold;
+}
+
+.agency-logo {
+  margin: 0 auto;
+  max-width: 200px;
+}
+
+.agency-name {
+  font-weight: bold;
+}

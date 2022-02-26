@@ -5,6 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
+import HomepageUsage from '../components/HomepageUsage';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -26,7 +27,7 @@ function HomepageHeader() {
               <Link
                 className="button button--secondary button--lg margin-top--sm"
                 to="/specification">
-                GTFS-Ride Specification
+                GTFS-ride Specification
               </Link>
             </div>
           </div>
@@ -45,6 +46,7 @@ export default function Home() {
       <HomepageHeader />
       <main>
         <HomepageFeatures />
+        <HomepageUsage />
       </main>
     </Layout>
   );
