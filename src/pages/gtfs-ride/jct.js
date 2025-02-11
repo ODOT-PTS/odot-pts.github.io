@@ -50,6 +50,7 @@ export default function Smart() {
               <th>Start Date</th>
               <th>End Date</th>
               <th>Link</th>
+              <th>Visualize</th>
             </tr>
           </thead>
           <tbody>
@@ -58,11 +59,11 @@ export default function Smart() {
                 <td>{item.startDate}</td>
                 <td>{item.endDate}</td>
                 <td><a href={item.link}>Download</a></td>
+                <td><a href="https://jctridership.blinktag.com">Visualize</a></td>
               </tr>
             ))}
           </tbody>
         </table>
-        <a href="https://jctridership.blinktag.com">Ridership Visualization</a>
         <a href="https://gtfsride.org/docs/about">About GTFS-ride</a>
       </main>
     </Layout>
