@@ -4,6 +4,21 @@ import Layout from '@theme/Layout';
 export default function Smart() {
   const gtfsRideData = [
     {
+      startDate: '2025-01-17',
+      endDate: '2025-01-31',
+      link: '/gtfs-ride/jct/jct-2025-01-17-2025-01-31.zip',
+    },
+    {
+      startDate: '2025-01-06',
+      endDate: '2025-01-16',
+      link: '/gtfs-ride/jct/jct-2025-01-06-2025-01-16.zip',
+    },
+    {
+      startDate: '2025-01-01',
+      endDate: '2025-01-05',
+      link: '/gtfs-ride/jct/jct-2025-01-01-2025-01-05.zip',
+    },
+    {
       startDate: '2024-12-01',
       endDate: '2024-12-31',
       link: '/gtfs-ride/jct/jct-2024-12-01-2024-12-31.zip',
@@ -47,6 +62,7 @@ export default function Smart() {
             ))}
           </tbody>
         </table>
+        <a href="https://jctridership.blinktag.com">Ridership Visualization</a>
         <a href="https://gtfsride.org/docs/about">About GTFS-ride</a>
       </main>
     </Layout>

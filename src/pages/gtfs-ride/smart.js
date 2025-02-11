@@ -4,6 +4,11 @@ import Layout from '@theme/Layout';
 export default function Smart() {
   const gtfsRideData = [
     {
+      startDate: '2025-01',
+      endDate: '2025-01-31',
+      link: '/gtfs-ride/smart/smart-2025-01-01-2025-01-31.zip',
+    },
+    {
       startDate: '2024-12-31',
       endDate: '2024-12-31',
       link: '/gtfs-ride/smart/smart-2024-12-31-2024-12-31.zip',
@@ -47,6 +52,7 @@ export default function Smart() {
             ))}
           </tbody>
         </table>
+        <a href="https://smartridership.blinktag.com">Ridership Visualization</a>
         <a href="https://gtfsride.org/docs/about">About GTFS-ride</a>
       </main>
     </Layout>
