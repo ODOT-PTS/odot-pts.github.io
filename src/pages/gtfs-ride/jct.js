@@ -4,6 +4,16 @@ import Layout from '@theme/Layout';
 export default function Smart() {
   const gtfsRideData = [
     {
+      startDate: '2025-02-13',
+      endDate: '2025-02-28',
+      link: '/gtfs-ride/jct/jct-2025-02-13-2025-02-28.zip',
+    },
+    {
+      startDate: '2025-02-01',
+      endDate: '2025-02-12',
+      link: '/gtfs-ride/jct/jct-2025-02-01-2025-02-12.zip',
+    },
+    {
       startDate: '2025-01-17',
       endDate: '2025-01-31',
       link: '/gtfs-ride/jct/jct-2025-01-17-2025-01-31.zip',
