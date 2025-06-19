@@ -4,6 +4,11 @@ import Layout from '@theme/Layout';
 export default function Smart() {
   const gtfsRideData = [
     {
+      startDate: '2025-03-01',
+      endDate: '2025-03-31',
+      link: '/gtfs-ride/smart/smart-2025-03-01-2025-03-31.zip',
+    },
+    {
       startDate: '2025-02-10',
       endDate: '2025-02-28',
       link: '/gtfs-ride/smart/smart-2025-02-10-2025-02-28.zip',
@@ -59,7 +64,7 @@ export default function Smart() {
                 <td>{item.startDate}</td>
                 <td>{item.endDate}</td>
                 <td><a href={item.link}>Download</a></td>
-                <td><a href="https://smartridership.blinktag.com">Visualize</a></td>
+                <td><a href="https://smartridership.gtfsride.org">Visualize</a></td>
               </tr>
             ))}
           </tbody>
