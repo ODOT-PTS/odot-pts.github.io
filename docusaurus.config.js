@@ -119,7 +119,7 @@ const config = {
               },
               {
                 label: 'Google Group',
-                href: 'http://forum.gtfsride.org/',
+                href: 'https://groups.google.com/g/gtfs-ride',
               },
             ],
           },
