@@ -11,10 +11,6 @@ const companies = [
     name: 'Optibus',
     imagePath: 'img/optibus-logo.svg'
   },
-  {
-    name: 'Swiftly',
-    imagePath: 'img/swiftly-logo.png'
-  },
 ]
 
 const agencies = [
